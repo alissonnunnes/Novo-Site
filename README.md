@@ -1,0 +1,1 @@
+https://minhacalculator.netlify.app
